@@ -6,8 +6,9 @@ Faculdade Dom Pedro II
 
 Estrutura de Pastas:
 
-- analise
-
+- analise :
 Responsavel por armezenar todos os documentos relacionados a analise do projeto. Tais como Analise de Requisito, Caso de Uso e outros.
+
+-
 
 Demais pastas serão adicionadas em breve
